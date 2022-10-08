@@ -50,16 +50,16 @@ Ontario Applicants: Graduate with University credits in: Advanced Functions, Cal
 
 #### First Year Courses
 
-> CS 135 (Designing Functional Programs)
+> CS 135 (Designing Functional Programs):
 > Introductory computer science course teaching fundementals of computation and program design. 
 
-> Math 135 (Algebra for Honours Mathematics)
+> Math 135 (Algebra for Honours Mathematics):
 > Introduction of basic elements of algebra
 
-> Math 137 (Calculus 1 for Honours Mathematics)
+> Math 137 (Calculus 1 for Honours Mathematics):
 > Extended Calculus course with the purpose of deepening understanding of calculus related topics
 
-> Communication Skills Course
+> Communication Skills Course:
 > Course meant to teach basic skills of communication
 
 **Other things Necessary to Graduate**
@@ -80,16 +80,16 @@ Ontario Applicants: Graduate with high school credits in: ENG4U, MCV4U, and four
 
 #### First Year Courses
 
-> CIS*1300 Programming
+> CIS*1300 Programming:
 > Introduction into core concepts of programming, like data structures, program design, and more. 
 
-> CIS*1910 Discrete Structures in Computing I
+> CIS*1910 Discrete Structures in Computing I:
 > Introduction into Discrete structures in used in Computer Science
 
-> MATH*1200 Calculus I
+> MATH*1200 Calculus I:
 > Calculus course delving into derivatives, various theorums, and limits
 
-> CIS*2500 Intermediate Programming
+> CIS*2500 Intermediate Programming:
 > Implementing code structures, data algorithms, and more, to code
 
 
