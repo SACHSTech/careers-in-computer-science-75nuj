@@ -28,13 +28,19 @@ Proficiency in using programs and tools, such as ASP.NET (software used to devel
 Software Developers require soft skills which allow them to collaborate and work well with software development. Communication and teamwork are collaborative skills which are important when many people are being used to develop software. Communication helps developers convey their goals and work to others, allowing for the team to reach the goals they want through teamwork. Problem-solving and attention to detail are important skills in the independent work involved with software development. Attention to detail is important in efficiently developing functional code, and problem solving can help developers become proficient in debugging.
 
 
-### Salary
+### Average Salaries
 
-*Entry Level Salary*: $64 000
+*Entry-Level Salary*: $64 000
 
 *Median Salary*: $77 000
 
 *High-Level Salary*: $107 000
+
+## Standard Education
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.linkedin.com%2Fschool%2Fuwaterloo%2Fpeople&psig=AOvVaw0bSAJ9VL1qMgesiGs_-kfY&ust=1665334040104000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiblvKK0foCFQAAAAAdAAAAABAX "Waterloo")
+
+
 
 
 
