@@ -38,7 +38,67 @@ Software Developers require soft skills which allow them to collaborate and work
 
 ## Standard Education
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.linkedin.com%2Fschool%2Fuwaterloo%2Fpeople&psig=AOvVaw0bSAJ9VL1qMgesiGs_-kfY&ust=1665334040104000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiblvKK0foCFQAAAAAdAAAAABAX "Waterloo")
+![alt text](https://media-exp1.licdn.com/dms/image/D563DAQGXnBeTbnTgmA/image-scale_191_1128/0/1664807082966?e=1665853200&v=beta&t=Uyyade5d5sw4wlflA29bICFfCIM5h-L_FRpfRDn3piU "Waterloo")
+
+### University 1; Institution: University of Waterloo - Computer Science
+---
+
+
+## Entrance Requirements 
+
+**Ontario Applicants**
+Graduate with University credits in: Advanced Functions, Calculus and Vectors, Grade 12 English, and one other 4U course. Individual selection within the low to mid 90s range.
+
+**First Year Courses**
+
+CS 135 (Designing Functional Programs)
+> Introductory computer science course teaching fundementals of computation and program design. 
+
+Math 135 (Algebra for Honours Mathematics)
+> Introduction of basic elements of algebra
+
+Math 137 (Calculus 1 for Honours Mathematics)
+> Extended Calculus course with the purpose of deepening understanding of calculus related topics
+
+Communication Skills Course
+> Course meant to teach basic skills of communication
+
+**Other things Necessary to Graduate**
+> Co-Op: To graduate, you must also complete 4 to 6 co-op work terms 
+
+**Length of Time to Complete Degree:** Four year Program + Three Paid Co-op Terms
+
+
+![alt text](https://marvel-b1-cdn.bc0a.com/f00000000209359/www.uoguelph.ca/cip/sites/default/files/Copy%20of%20One%20Word%20Banner-2.png "Guelph")
+
+### University 2; Institution: University of Guelph - Computer Science
+---
+
+
+#### **Entrance Requirements** 
+
+Ontario Applicants: Graduate with high school credits in: ENG4U, MCV4U, and four other 4U Courses. Individual Selection from 85-90.
+
+**First Year Courses**
+
+CIS*1300 Programming
+> Introduction into core concepts of programming, like data structures, program design, and more. 
+
+CIS*1910 Discrete Structures in Computing I
+> Introduction into Discrete structures in used in Computer Science
+
+MATH*1200 Calculus I
+> Calculus course delving into derivatives, various theorums, and limits
+
+CIS*2500 Intermediate Programming
+> Implementing code structures, data algorithms, and more, to code
+
+
+
+**Other things Necessary to Graduate**
+> 5 Co-op terms
+
+**Length of Time to Complete Degree:** Five Year Program (including co-op)
 
 
 
