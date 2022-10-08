@@ -16,9 +16,7 @@
 
 ### Required Education
 
-Software Developers typically have a Bachelor Degree in Computer Science or Software Engineering. Although it is possible to become a Developer without a degree, programming skills should be shown through an extensive portfolio. 
-
-Portfolios which demonstrate strong programming skills are also important in the hiring process for software development. 
+Software Developers typically have a Bachelor Degree in Computer Science or Software Engineering. Although it is possible to become a Developer without a degree, programming skills should be shown through an extensive portfolio. Portfolios which demonstrate strong programming skills are also important in the hiring process for software development. 
 
 
 ### Skills
