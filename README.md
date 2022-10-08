@@ -22,12 +22,14 @@ Portfolios which demonstrate strong programming skills are also important in the
 ### Skills
 
 #### **Technical Skills**
+---
 
 Proficiency in using programs and tools, such as ASP.NET (software used to develop websites), JavaScript (dynamic programming language used in websites, apps, and more), Java (object-oriented language runnable on many devices), and Python (general purpose, high-level programming language, with high code readability).
 
 General programming skills, such as debugging, code development, code readability, and more. 
 
 #### **Non-Technical Skills**
+---
 
 Software Developers require soft skills which allow them to collaborate and work well with software development. Communication and teamwork are collaborative skills which are important when many people are being used to develop software. Communication helps developers convey their goals and work to others, allowing for the team to reach the goals they want through teamwork. Problem-solving and attention to detail are important skills in the independent work involved with software development. Attention to detail is important in efficiently developing functional code, and problem solving can help developers become proficient in debugging.
 
@@ -35,7 +37,9 @@ Software Developers require soft skills which allow them to collaborate and work
 ### Salary
 
 *Entry Level Salary*: $64 000
+
 *Median Salary*: $77 000
+
 *High-Level Salary*: $107 000
 
 
