@@ -41,7 +41,7 @@ Software Developers require soft skills which allow them to collaborate and work
 ![alt text](https://media-exp1.licdn.com/dms/image/D563DAQGXnBeTbnTgmA/image-scale_191_1128/0/1664807082966?e=1665853200&v=beta&t=Uyyade5d5sw4wlflA29bICFfCIM5h-L_FRpfRDn3piU "Waterloo")
 
 ### University 1; Institution: University of Waterloo - Computer Science
----
+
 
 
 ## Entrance Requirements 
@@ -72,7 +72,7 @@ Communication Skills Course
 ![alt text](https://marvel-b1-cdn.bc0a.com/f00000000209359/www.uoguelph.ca/cip/sites/default/files/Copy%20of%20One%20Word%20Banner-2.png "Guelph")
 
 ### University 2; Institution: University of Guelph - Computer Science
----
+
 
 
 #### **Entrance Requirements** 
