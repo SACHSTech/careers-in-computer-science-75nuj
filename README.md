@@ -44,7 +44,7 @@ Software Developers require soft skills which allow them to collaborate and work
 
 
 
-## Entrance Requirements 
+#### Entrance Requirements 
 
 **Ontario Applicants**
 Graduate with University credits in: Advanced Functions, Calculus and Vectors, Grade 12 English, and one other 4U course. Individual selection within the low to mid 90s range.
