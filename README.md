@@ -50,7 +50,7 @@ Software Developers require soft skills which allow them to collaborate and work
 Graduate with University credits in: Advanced Functions, Calculus and Vectors, Grade 12 English, and one other 4U course. Individual selection within the low to mid 90s range.
 
 **First Year Courses**
-
+---
 CS 135 (Designing Functional Programs)
 > Introductory computer science course teaching fundementals of computation and program design. 
 
@@ -67,7 +67,7 @@ Communication Skills Course
 > Co-Op: To graduate, you must also complete 4 to 6 co-op work terms 
 
 **Length of Time to Complete Degree:** Four year Program + Three Paid Co-op Terms
-
+---
 
 ![alt text](https://marvel-b1-cdn.bc0a.com/f00000000209359/www.uoguelph.ca/cip/sites/default/files/Copy%20of%20One%20Word%20Banner-2.png "Guelph")
 
@@ -80,7 +80,7 @@ Communication Skills Course
 Ontario Applicants: Graduate with high school credits in: ENG4U, MCV4U, and four other 4U Courses. Individual Selection from 85-90.
 
 **First Year Courses**
-
+---
 CIS*1300 Programming
 > Introduction into core concepts of programming, like data structures, program design, and more. 
 
@@ -92,7 +92,7 @@ MATH*1200 Calculus I
 
 CIS*2500 Intermediate Programming
 > Implementing code structures, data algorithms, and more, to code
-
+---
 
 
 **Other things Necessary to Graduate**
