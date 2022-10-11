@@ -122,11 +122,64 @@ Ontario Applicants: Graduate with high school credits in: ENG4U, MCV4U, and four
 
 Having strong evidence of experiential learning is crucial to a software developer's portfolio, arguably just as important as a degree. Co-ops/internships along with coding projects/portfolios are key to becoming a strong candidate for companies. Succeeding in learning opportunities outside the classroom can prove one's proficiency in software developing skills.
 
-**Co-op/Internships**
+**Co-op/Internships:**
 Participating in co-op/internships is quite important, since it allows one to get into a workplace where projects are developed. Being an intern at a software developing company can help one adjust to professional workflows, and can help them develop technical/non-technical skills required to succeed. On a resume, participation in an internship opportunity proves that the candidate has the appropriate skillset to flourish in the company's work environment. 
 
-**Coding Projects/Portfolios**
+**Coding Projects/Portfolios:**
 Coding projects/portfolios succeed in demonstrating one's coding skills, like clarity, efficiency, and proficiency in computer science-related concepts. A strong portfolio can demonstrate technical (and some non-technical) skills to companies, and can help one get a job, even if they don't have in-office experience.
+
+
+<br>
+
+
+## Real Jobs
+
+<br>
+
+### Entry Level Position: [Dynamic Connections- Software Developer](https://ca.indeed.com/viewjob?cmp=Dynamic-Connections&t=Software+Developer&jk=7bd7326982b7892c&q=entry+level+software+developer&vjs=3)
+
+**Salary**: $40,000–$50,000 a year
+
+**Location**: Remote Job  
+
+**Description**: Developing software for Dynamic Connections, a small delivering/warehousing company, which involves using technology. The job involves developing software for their SalesForce platform, improving the user experience, and innovating tools to separate the product from other platforms available on the market. 
+
+**Extra Required Skills/Experience**: Training/education in software development, Strong Work ethic, Proficiency in online applications
+
+
+<br>
+
+### Middle-Level Position: [Dynamic Connections- Software Developer](https://ca.indeed.com/viewjob?jk=7134636afcad540a&q=software+developer&l=markham&tk=1gf4m0tickkev800&from=web&advn=1684183761273035&adid=393324553&ad=-6NYlbfkN0D1A-sOXQP6_HY3qslWNnPnRwrEzXcLH2h-dHM0sLTGVoJZatW0t7DQUJfUPnjruZQ9aTMLXb_Wj4TeRqBk0olEYruOcSR37BiVArELimpRngHkNhEXWx_h7lX3jMwYHBcwcWWR3VUsW8rZbIZPj0mDdJnndW6Ka2jTNnTLCjr7LlvJDnlZ67bbBj8lonMYtmYmoKSGdWQZTR4QSnXDHpHVrWEVJg96T4OYeYP3MdB21HbspKf2Vdy4Mv1tcC-jXDvmfAg4tdXVXamSmsbXcprgvbxRpYqLo9VRsHslq7llTwP0yRTXx-mSJdWIuZ3tuTqpjUxpeeu2plNPLmaberUYA9cIFShL_6Vfek3YwSMH9K4fzbi-cfsV&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDV-_M3YkkMbLg0Tr0LbzkdCdPP&vjs=3)
+
+**Salary**: $60 000-$80 000 a year
+
+
+**Location**: Richmond Hill
+
+**Description**: This position involves developing mobile software for companies and industries relating to wellness and retail industries, like salons, spas, tattoo parlors, and more. In this job, developers will need to develop and research the most relevant algorithms and systems to create software for clients. They will also need to maintain existing code to the needs of clients. 
+
+**Extra Required Skills/Experience**: Ability in problem solving, flexibility, design skill, programming proficiency (NodeJS, .NetCore, C#, Reactjs, RestAPI, Microservices, Postman, Dapper, GraphQL, Mongo, Linux, MySql, ORM, Javascript, HTML5, CSS, SOA architecture), API development skills
+
+
+<br>
+
+### High-Level Position: [Dynamic Connections- Software Developer](https://ca.indeed.com/viewjob?jk=7134636afcad540a&q=software+developer&l=markham&tk=1gf4m0tickkev800&from=web&advn=1684183761273035&adid=393324553&ad=-6NYlbfkN0D1A-sOXQP6_HY3qslWNnPnRwrEzXcLH2h-dHM0sLTGVoJZatW0t7DQUJfUPnjruZQ9aTMLXb_Wj4TeRqBk0olEYruOcSR37BiVArELimpRngHkNhEXWx_h7lX3jMwYHBcwcWWR3VUsW8rZbIZPj0mDdJnndW6Ka2jTNnTLCjr7LlvJDnlZ67bbBj8lonMYtmYmoKSGdWQZTR4QSnXDHpHVrWEVJg96T4OYeYP3MdB21HbspKf2Vdy4Mv1tcC-jXDvmfAg4tdXVXamSmsbXcprgvbxRpYqLo9VRsHslq7llTwP0yRTXx-mSJdWIuZ3tuTqpjUxpeeu2plNPLmaberUYA9cIFShL_6Vfek3YwSMH9K4fzbi-cfsV&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDV-_M3YkkMbLg0Tr0LbzkdCdPP&vjs=3)
+
+**Salary**: $60 000-$80 000 a year
+
+
+**Location**: Toronto
+
+**Description**: C# .Net Developer, who will work with others to develop and design custom web and mobile software.
+
+**Extra Required Skills/Experience**: 7+ years of experience in developing web applications using C#, and ASP.NET MVC, proficiency in OOP and algorithms/data structures, experience with Microsoft SQL server, source control, and soft skills (including communication skills and collaboration)
+
+
+
+
+
+
+
 
 
 
