@@ -14,7 +14,7 @@
 
 **Description + Responsbilities**: 
 
-> Software developers plan, design, and develop software, for the use of mobile, desktop and other decides. Developers must consider the various needs of clients to create and maintain software. Using problem solving skills, proficiency in coding algorithms/structures, and collaboration with development teams, software developers efficiently create software to meet clients needs.
+Software developers plan, design, and develop software, for the use of mobile, desktop and other decides. Developers must consider the various needs of clients to create and maintain software. Using problem solving skills, proficiency in coding algorithms/structures, and collaboration with development teams, software developers efficiently create software to meet clients needs.
 
 <br>
 
@@ -117,6 +117,16 @@ Ontario Applicants: Graduate with high school credits in: ENG4U, MCV4U, and four
 > 5 Co-op terms
 
 **Length of Time to Complete Degree:** Five Year Program (including co-op)
+
+## Experiential Learning
+
+Having strong evidence of experiential learning is crucial to a software developer's portfolio, arguably just as important as a degree. Co-ops/internships along with coding projects/portfolios are key to becoming a strong candidate for companies. Succeeding in learning opportunities outside the classroom can prove one's proficiency in software developing skills.
+
+**Co-op/Internships**
+Participating in co-op/internships is quite important, since it allows one to get into a workplace where projects are developed. Being an intern at a software developing company can help one adjust to professional workflows, and can help them develop technical/non-technical skills required to succeed. On a resume, participation in an internship opportunity proves that the candidate has the appropriate skillset to flourish in the company's work environment. 
+
+**Coding Projects/Portfolios**
+Coding projects/portfolios succeed in demonstrating one's coding skills, like clarity, efficiency, and proficiency in computer science-related concepts. A strong portfolio can demonstrate technical (and some non-technical) skills to companies, and can help one get a job, even if they don't have in-office experience.
 
 
 
