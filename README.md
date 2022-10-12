@@ -48,7 +48,8 @@ Software Developers require soft skills which allow them to collaborate and work
 
 ## Standard Education
 
-![alt text](https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/eyabq11w8aohj0i.jpg "Waterloo")
+
+<img src="https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/eyabq11w8aohj0i.jpg" width="600" height="400">
 
 ### Institution: [University of Waterloo - Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 
