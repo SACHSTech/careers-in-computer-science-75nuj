@@ -48,7 +48,7 @@ Software Developers require soft skills which allow them to collaborate and work
 
 ## Standard Education
 
-![alt text](https://media-exp1.licdn.com/dms/image/D563DAQGXnBeTbnTgmA/image-scale_191_1128/0/1664807082966?e=1665853200&v=beta&t=Uyyade5d5sw4wlflA29bICFfCIM5h-L_FRpfRDn3piU "Waterloo")
+![alt text](https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/eyabq11w8aohj0i.jpg "Waterloo")
 
 ### Institution: [University of Waterloo - Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 
@@ -84,7 +84,7 @@ Ontario Applicants: Graduate with University credits in: Advanced Functions, Cal
 #### **Length of Time to Complete Degree:** Four year Program + Three Paid Co-op Terms
 ---
 
-![alt text](https://marvel-b1-cdn.bc0a.com/f00000000209359/www.uoguelph.ca/cip/sites/default/files/Copy%20of%20One%20Word%20Banner-2.png "Guelph")
+![alt text](https://img.emg-services.net/institutes/institute9925/untitled-design-10-1-1-1.png "Guelph")
 
 ### Institution: [University of Guelph - Computer Science](https://www.uoguelph.ca/computing/undergraduates/undergraduate-programs)
 
@@ -149,7 +149,7 @@ Coding projects/portfolios succeed in demonstrating one's coding skills, like cl
 
 <br>
 
-### Middle-Level Position: [Dynamic Connections- Software Developer](https://ca.indeed.com/viewjob?jk=7134636afcad540a&q=software+developer&l=markham&tk=1gf4m0tickkev800&from=web&advn=1684183761273035&adid=393324553&ad=-6NYlbfkN0D1A-sOXQP6_HY3qslWNnPnRwrEzXcLH2h-dHM0sLTGVoJZatW0t7DQUJfUPnjruZQ9aTMLXb_Wj4TeRqBk0olEYruOcSR37BiVArELimpRngHkNhEXWx_h7lX3jMwYHBcwcWWR3VUsW8rZbIZPj0mDdJnndW6Ka2jTNnTLCjr7LlvJDnlZ67bbBj8lonMYtmYmoKSGdWQZTR4QSnXDHpHVrWEVJg96T4OYeYP3MdB21HbspKf2Vdy4Mv1tcC-jXDvmfAg4tdXVXamSmsbXcprgvbxRpYqLo9VRsHslq7llTwP0yRTXx-mSJdWIuZ3tuTqpjUxpeeu2plNPLmaberUYA9cIFShL_6Vfek3YwSMH9K4fzbi-cfsV&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDV-_M3YkkMbLg0Tr0LbzkdCdPP&vjs=3)
+### Middle-Level Position: [Milano Software- Software Developer](https://ca.indeed.com/viewjob?jk=7134636afcad540a&q=software+developer&l=markham&tk=1gf4m0tickkev800&from=web&advn=1684183761273035&adid=393324553&ad=-6NYlbfkN0D1A-sOXQP6_HY3qslWNnPnRwrEzXcLH2h-dHM0sLTGVoJZatW0t7DQUJfUPnjruZQ9aTMLXb_Wj4TeRqBk0olEYruOcSR37BiVArELimpRngHkNhEXWx_h7lX3jMwYHBcwcWWR3VUsW8rZbIZPj0mDdJnndW6Ka2jTNnTLCjr7LlvJDnlZ67bbBj8lonMYtmYmoKSGdWQZTR4QSnXDHpHVrWEVJg96T4OYeYP3MdB21HbspKf2Vdy4Mv1tcC-jXDvmfAg4tdXVXamSmsbXcprgvbxRpYqLo9VRsHslq7llTwP0yRTXx-mSJdWIuZ3tuTqpjUxpeeu2plNPLmaberUYA9cIFShL_6Vfek3YwSMH9K4fzbi-cfsV&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDV-_M3YkkMbLg0Tr0LbzkdCdPP&vjs=3)
 
 **Salary**: $60 000-$80 000 a year
 
@@ -163,7 +163,7 @@ Coding projects/portfolios succeed in demonstrating one's coding skills, like cl
 
 <br>
 
-### High-Level Position: [Dynamic Connections- Software Developer](https://ca.indeed.com/viewjob?jk=7134636afcad540a&q=software+developer&l=markham&tk=1gf4m0tickkev800&from=web&advn=1684183761273035&adid=393324553&ad=-6NYlbfkN0D1A-sOXQP6_HY3qslWNnPnRwrEzXcLH2h-dHM0sLTGVoJZatW0t7DQUJfUPnjruZQ9aTMLXb_Wj4TeRqBk0olEYruOcSR37BiVArELimpRngHkNhEXWx_h7lX3jMwYHBcwcWWR3VUsW8rZbIZPj0mDdJnndW6Ka2jTNnTLCjr7LlvJDnlZ67bbBj8lonMYtmYmoKSGdWQZTR4QSnXDHpHVrWEVJg96T4OYeYP3MdB21HbspKf2Vdy4Mv1tcC-jXDvmfAg4tdXVXamSmsbXcprgvbxRpYqLo9VRsHslq7llTwP0yRTXx-mSJdWIuZ3tuTqpjUxpeeu2plNPLmaberUYA9cIFShL_6Vfek3YwSMH9K4fzbi-cfsV&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDV-_M3YkkMbLg0Tr0LbzkdCdPP&vjs=3)
+### High-Level Position: [Celerity One Inc- C# Developer](https://ca.indeed.com/viewjob?jk=7134636afcad540a&q=software+developer&l=markham&tk=1gf4m0tickkev800&from=web&advn=1684183761273035&adid=393324553&ad=-6NYlbfkN0D1A-sOXQP6_HY3qslWNnPnRwrEzXcLH2h-dHM0sLTGVoJZatW0t7DQUJfUPnjruZQ9aTMLXb_Wj4TeRqBk0olEYruOcSR37BiVArELimpRngHkNhEXWx_h7lX3jMwYHBcwcWWR3VUsW8rZbIZPj0mDdJnndW6Ka2jTNnTLCjr7LlvJDnlZ67bbBj8lonMYtmYmoKSGdWQZTR4QSnXDHpHVrWEVJg96T4OYeYP3MdB21HbspKf2Vdy4Mv1tcC-jXDvmfAg4tdXVXamSmsbXcprgvbxRpYqLo9VRsHslq7llTwP0yRTXx-mSJdWIuZ3tuTqpjUxpeeu2plNPLmaberUYA9cIFShL_6Vfek3YwSMH9K4fzbi-cfsV&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDV-_M3YkkMbLg0Tr0LbzkdCdPP&vjs=3)
 
 **Salary**: $60 000-$80 000 a year
 
@@ -173,6 +173,33 @@ Coding projects/portfolios succeed in demonstrating one's coding skills, like cl
 **Description**: C# .Net Developer, who will work with others to develop and design custom web and mobile software.
 
 **Extra Required Skills/Experience**: 7+ years of experience in developing web applications using C#, and ASP.NET MVC, proficiency in OOP and algorithms/data structures, experience with Microsoft SQL server, source control, and soft skills (including communication skills and collaboration)
+
+
+## Works Cited
+
+
+“Application Software Developer Career Overview.” Code a New Career | ComputerScience.org, 9 Sept. 2022, https://www.computerscience.org/careers/software-developer/#:~:text=Software%20developers%20conceive%20of%2C%20design,new%20software%2C%20and%20make%20improvements. 
+
+“Co-Op.” Undergraduate Programs, 10 Aug. 2022, https://uwaterloo.ca/future-students/co-op. 
+
+“Computer Science.” Undergraduate Programs, 20 July 2022, https://uwaterloo.ca/future-students/courses/computer-science. 
+
+“Developing Programmer Development Website Design Coding Technologies Working Software Company Office.” Freepik, https://img.freepik.com/premium-photo/developing-programmer-development-website-design-coding-technologies-working-software-company-office_18497-1234.jpg?w=2000. 
+
+Educations.com, 2022, https://img.emg-services.net/institutes/institute9925/untitled-design-10-1-1-1.png. Accessed 2022. 
+
+Indeed Editorial Team. “14 Programming Side Projects to Boost Your Resume (with Examples) - Indeed.” Indeed, https://www.indeed.com/career-advice/resumes-cover-letters/programming-side-projects-to-boost-your-resume. 
+
+“Software Developer Salary in Canada - Average Salary.” Talent.com, 2022, https://ca.talent.com/salary?job=software%2Bdeveloper#:~:text=The%20average%20software%20developer%20salary%20in%20Canada%20is%20%2477%2C677%20per,up%20to%20%24107%2C406%20per%20year. 
+
+“Undergraduate Programs.” Undergraduate Programs | School of Computer Science, https://www.uoguelph.ca/computing/undergraduates/undergraduate-programs. 
+
+Utsav. “How to Pick Good Software Engineering Side Projects.” Engineering with Utsav, Engineering with Utsav, 21 July 2020, https://www.engineeringwithutsav.com/blog/how-to-pick-good-software-engineering-side-projects. 
+
+“Waterloo Campus.” University of Waterloo , https://uwaterloo.ca/math/sites/ca.math/files/resize/uploads/images/eyabq11w8aohj0i-750x500.jpg. 
+
+“What Degree Do You Need to Become a Software Engineer? (2022 Guide).” BrainStation®, STAGE9 BrainStation®, 10 Dec. 2021, https://brainstation.io/career-guides/what-degree-do-you-need-to-become-a-software-engineer. 
+
 
 
 
