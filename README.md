@@ -139,7 +139,7 @@ Coding projects/portfolios succeed in demonstrating one's coding skills, like cl
 
 ### Entry Level Position: [Dynamic Connections- Software Developer](https://ca.indeed.com/viewjob?cmp=Dynamic-Connections&t=Software+Developer&jk=7bd7326982b7892c&q=entry+level+software+developer&vjs=3)
 
-**Salary**: $40,000–$50,000 a year
+**Salary**: $108 000 a year
 
 **Location**: Remote Job  
 
